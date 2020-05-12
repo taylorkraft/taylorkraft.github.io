@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby on Rails Project Mode"
-date:       2020-05-12 22:07:34 +0000
+date:       2020-05-12 18:07:35 -0400
 permalink:  ruby_on_rails_project_mode
 ---
 
